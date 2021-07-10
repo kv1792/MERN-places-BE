@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "kv1718",
+    "DB_PASSWORD": "KMSWeIPda1RFPQ5S",
+    "DB_NAME": "mern2",
+    "GOOGLE_MAP_KEY": "AIzaSyD4oglZsWrahRtRe7VM8mR_ZXdb69mSPOw",
+    "JWT_KEY": "auth_token"
+  }
+}
